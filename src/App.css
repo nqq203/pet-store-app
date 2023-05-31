@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  vertical-align: baseline;
+}
+
+body {
+  background-image: url("https://th.bing.com/th/id/R.cdaab6825142515cf539cd58c3e47427?rik=IOKw1ddzC%2fjtFA&riu=http%3a%2f%2fcdn.wallpapersafari.com%2f32%2f78%2fdTuctf.jpg&ehk=SUs6mf0mjO%2fkml7bDqSmTLaekbOShXUjDPokk9wI%2bm4%3d&risl=&pid=ImgRaw&r=0");
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+li {
+  list-style: none;
+}

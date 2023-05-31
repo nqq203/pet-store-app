@@ -1,0 +1,31 @@
+.paying-page {
+  display: flex;
+  margin-top: 5vh;
+  background-color: rgba(255, 255, 255, 0.5);;
+}
+
+.product {
+  margin-left: 20vw;
+  background-color: rgba(255, 255, 255, 0.8);
+  margin-right: 5vw;
+  width: 40%;
+}
+
+.product img {
+  padding: 3vw;
+  width: 100%;
+}
+
+.product h3 {
+  text-align: center;
+  margin-top: 3vh;
+}
+
+.status {
+  width: 60%;
+  margin-top: 20vh;
+}
+
+input {
+  margin-top: 2vh;
+}

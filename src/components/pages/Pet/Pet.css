@@ -1,0 +1,48 @@
+.dog-page,
+.cat-page {
+  text-align: center;
+  margin-top: 5vh;
+  
+}
+
+h2 {
+  text-align: center;
+  border-bottom: 2px solid rgb(165, 109, 5);
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 2vh;
+  color: rgb(4, 83, 4);
+}
+
+.cat-container, 
+.dog-container {
+  display: grid;
+  grid-template-columns: 19vw 19vw 19vw 19vw;
+  width: 100%;
+  gap: 1vw;
+  text-align: center;
+  padding: 2vw;
+  justify-content: space-around;
+}
+
+.cat-container .cat-item,
+.dog-container .dog-item {
+  width: 100%;
+  height: auto;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.cat-container img,
+.dog-container img {
+  width: 100%;
+  height: auto;
+  padding: 3vw;
+  padding-bottom: 2vh;
+}
+
+.cat-container h3,
+.dog-container h3 {
+  font-size: 1.2vw;
+}

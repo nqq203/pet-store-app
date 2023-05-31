@@ -1,0 +1,98 @@
+[
+  {
+    "id": "c1", 
+    "name": "MÈO ANH LÔNG NGẮN",
+    "photoUrls": "images/pet/cat/1.png",
+    "gender": "female",
+    "amount": 10,
+    "price": 7000000
+  },
+  {
+    "id": "c2", 
+    "name": "MÈO ANH LÔNG DÀI",
+    "photoUrls": "images/pet/cat/2.png",
+    "gender": "male",
+    "amount": 5,
+    "price": 3000000
+  },
+  {
+    "id": "c3", 
+    "name": "MUNCHKIN CHÂN NGẮN",
+    "photoUrls": "images/pet/cat/3.png",
+    "gender": "male",
+    "amount": 1,
+    "price": 3500000
+  }, 
+  {
+    "id": "c4", 
+    "name": "MÈO SCOTTISH TAI CỤP",
+    "photoUrls": "images/pet/cat/4.png",
+    "gender": "male",
+    "amount": 0,
+    "price": 2000000
+  },
+  {
+    "id":"c5", 
+    "name": "MÈO BENGAL",
+    "photoUrls": "images/pet/cat/5.png",
+    "gender": "female",
+    "amount": 3,
+    "price": 900000
+  }, 
+  {
+    "id": "c6", 
+    "name": "MÈO TOYGER",
+    "photoUrls": "images/pet/cat/6.png",
+    "gender": "male",
+    "amount": 10,
+    "price": 300000
+  },
+  {
+    "id":"c7", 
+    "name": "MÈO MAINE COON",
+    "photoUrls": "images/pet/cat/7.png",
+    "gender": "female",
+    "amount": 21,
+    "price": 4500000
+  },
+  {
+    "id":"c8", 
+    "name": "MÈO RAGDOLL",
+    "photoUrls": "images/pet/cat/8.png",
+    "gender": "female",
+    "amount": 5,
+    "price": 3000000
+  }, 
+  {
+    "id":"c9", 
+    "name": "MÈO XIÊM",
+    "photoUrls": "images/pet/cat/9.png",
+    "gender": "male",
+    "amount": 6,
+    "price": 1000000
+  },
+  {
+    "id": "c10", 
+    "name": "MÈO BA TƯ",
+    "photoUrls": "images/pet/cat/10.png",
+    "gender": "female",
+    "amount": 9,
+    "price": 2500000
+  },
+  {
+    "id": "c11", 
+    "name": "MÈO KHÔNG LÔNG SPHYNX",
+    "photoUrls": "images/pet/cat/11.png",
+    "gender": "female",
+    "amount": 1,
+    "price": 250000
+  },
+  {
+    "id": "c12", 
+    "name": "MÈO CHÂN NGẮN TAI CỤP",
+    "photoUrls": "images/pet/cat/12.png",
+    "gender": "female",
+    "amount": 0,
+    "price": 25000000
+  }
+]

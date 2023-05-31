@@ -1,0 +1,297 @@
+/* header */
+/* .header {
+  background-color: #84b187;
+  height: 3%;
+} */
+
+.navigation {
+  display: flex;
+  background-color: #84b187;
+  height: 3%;
+}
+
+.nav-left {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: row;
+  height: 100%;
+}
+
+.logo {
+  width: 15%;
+  margin-left: 10vw;
+}
+
+.logo img {
+  width: 100%;
+  height: auto;
+}
+
+.nav-search {
+  color: black;
+  padding-right: 20px;
+  justify-content: flex-end;
+}
+
+.icon-search {
+  width: 23px;
+  height: 23px;
+  cursor: pointer;
+  color: black;
+  transform: translateX(22px);
+}
+
+.icon-search:hover {
+  color: rgb(240, 236, 236);
+}
+
+.nav-search input {
+  font-size: 14px;
+  border: 1px solid rgb(240, 236, 236);
+  width: 0;
+  padding: 15px;
+  margin-left: -8px;
+  opacity: 0;
+  width: 0px;
+  background-color: white;
+  padding-left: 35px;
+  transition: width 0.5s;
+}
+
+.nav-search input:focus {
+  padding-left: 35px;
+  opacity: 1;
+  width: 320px;
+  cursor: text;
+  border-radius: 10px;
+}
+
+.nav-right {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex-direction: row;
+  height: auto;
+  gap: 3vw;
+  margin-right: 10vw;
+}
+
+.nav-right-item {
+  text-align: center;
+}
+
+.nav-right-item h4 {
+  color: #1a641f;
+}
+
+/* navigation bar */
+.navbar-container ul {
+  display: flex;
+  gap: 3vw;
+  margin-left: 10vw;
+  margin-top: 10px;
+  width: auto;
+}
+
+.navbar-item {
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.navbar-container {
+  box-shadow: 3px 5px 10px rgb(0 0 0 / 0.2);
+  padding-top: 0.5vh;
+  padding-bottom: 0.5vh;
+  background-color: #68966b;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.nav-mobile {
+  display: none;
+}
+
+/* responsive header */
+/* both tablet and phone */
+@media all and (max-width: 1204px) {
+  .nav-left {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: row;
+    width: 100%;
+  }
+
+  .logo {
+    margin-left: 5vw;
+  }
+
+  .nav-right {
+    display: none;
+  }
+
+  .nav-search {
+    color: black;
+    padding-right: 20px;
+    justify-content: flex-end;
+  }
+
+  .nav-search input:focus {
+    display: none;
+  }
+}
+
+/* for smart phone */
+@media all and (max-width: 480px) {
+  .navigation {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+
+  .navbar-container {
+    position: sticky;
+    top: 50px;
+  }
+
+  .icon-search {
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+    color: black;
+    transform: translateX(22px);
+  }
+
+  .icon-search:hover {
+    color: rgb(240, 236, 236);
+  }
+
+  .nav-search input {
+    font-size: 14px;
+    border: 1px solid rgb(240, 236, 236);
+    width: 0;
+    padding: 4px;
+    opacity: 1;
+    width: 225px;
+    background-color: white;
+    padding-left: 35px;
+    cursor: text;
+    border-radius: 10px;
+  }
+}
+
+/* for tablet */
+@media only screen and (min-width: 480px) and (max-width: 1204px) {
+  /* .navbar-container {
+    position: sticky;
+    top: 100px;
+  } */
+
+  .icon-search {
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+    color: black;
+    transform: translateX(22px);
+  }
+
+  .icon-search:hover {
+    color: rgb(240, 236, 236);
+  }
+
+  .nav-search input {
+    font-size: 14px;
+    border: 1px solid rgb(240, 236, 236);
+    width: 0;
+    padding: 14px;
+    opacity: 1;
+    width: 400px;
+    background-color: white;
+    padding-left: 35px;
+    cursor: text;
+    border-radius: 10px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .nav-mobile {
+    display: block;
+    border: none;
+    background-color: #84b187;
+    padding: 0;
+    justify-content: flex-end;
+    margin-right: 4vw;
+    font-size: 20px;
+  }
+
+  .navbar-container {
+    margin: 0;
+    padding: 0;
+  }
+
+  .navbar-container ul {
+    display: none;
+  }
+
+  .navbar-container.expanded ul {
+    display: inline;
+  }
+
+  .navbar-container.expanded li {
+    padding: 5px;
+    border-bottom: 0.2px solid;
+    align-items: flex-end;
+    text-align: center;
+  }
+}
+
+/* for ipad mini */
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  .nav-mobile {
+    display: block;
+    border: none;
+    background-color: #84b187;
+    padding: 0;
+    font-size: 40px;
+    justify-content: flex-end;
+    margin-right: 4vw;
+  }
+
+  .navigation {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+
+  .navbar-container {
+    position: sticky;
+    top: 105px;
+  }
+}
+
+/* for ipad air */
+@media all and (min-width: 769px) and (max-width: 1180px) {
+  .nav-mobile {
+    display: none;
+  }
+}
+
+/* for Nest Hub */
+@media all and (min-width: 769px) and (max-width: 1180px) {
+  .nav-mobile {
+    display: none;
+  }
+
+  .navigation {
+    position: static;
+  }
+
+  .navbar-container {
+    position: sticky;
+    top: 0px;
+  }
+}

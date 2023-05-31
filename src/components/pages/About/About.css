@@ -1,0 +1,47 @@
+.about-dog-page
+.about-cat-page {
+  text-align: center;
+  margin-top: 5vh;
+}
+
+h2 {
+  text-align: center;
+  border-bottom: 2px solid rgb(165, 109, 5);
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 2vh;
+  color: rgb(4, 83, 4);
+}
+
+.about-dog-container,
+.about-cat-container {
+  display: grid;
+  grid-template-columns: 19vw 19vw 19vw 19vw;
+  width: 100%;
+  gap: 1vw;
+  text-align: center;
+  padding: 2vw;
+  justify-content: space-around;
+}
+
+.about-dog-container .about-dog-item,
+.about-cat-container .about-cat-item {
+  width: 100%;
+  height: auto;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.about-cat-container img,
+.about-dog-container img {
+  width: 100%;
+  height: auto;
+  padding: 3vw;
+  padding-bottom: 2vh;
+}
+
+.about-cat-container h3,
+.about-dog-container h3 {
+  font-size: 1.2vw;
+}

@@ -1,0 +1,298 @@
+[
+  {
+    "id": "d1", 
+    "name": "CHÓ CORGI ",
+    "photoUrls": "images/pet/dog/1.png",
+    "gender": "female",
+    "amount": 0,
+    "price": 7000000
+  },
+  {
+    "id": "d2", 
+    "name": "CHÓ PHÓC SÓC",
+    "photoUrls": "images/pet/dog/2.png",
+    "gender": "male",
+    "amount": 5,
+    "price": 3000000
+  },
+  {
+    "id": "d3", 
+    "name": "CHÓ POODLE",
+    "photoUrls": "images/pet/dog/3.png",
+    "gender": "male",
+    "amount": 3,
+    "price": 3500000
+  }, 
+  {
+    "id": "d4", 
+    "name": "CHÓ BICHON",
+    "photoUrls": "images/pet/dog/4.png",
+    "gender": "male",
+    "amount": 10,
+    "price": 2000000
+  },
+  {
+    "id": "d5", 
+    "name": "CHÓ CHIHUAHUA",
+    "photoUrls": "images/pet/dog/5.png",
+    "gender": "female",
+    "amount": 12,
+    "price": 900000
+  }, 
+  {
+    "id": "d6", 
+    "name": "CHÓ BULL PHÁP",
+    "photoUrls": "images/pet/dog/6.png",
+    "gender": "male",
+    "amount": 5,
+    "price": 300000
+  },
+  {
+    "id": "d7", 
+    "name": "CHÓ LẠP XƯỞNG",
+    "photoUrls": "images/pet/dog/7.png",
+    "gender": "female",
+    "amount": 10,
+    "price": 4500000
+  },
+  {
+    "id": "d8", 
+    "name": "CHÓ BẮC HÀ",
+    "photoUrls": "images/pet/dog/8.png",
+    "gender": "female",
+    "amount": 10,
+    "price": 3000000
+  }, 
+  {
+    "id": "d9", 
+    "name": "CHÓ SHIH TZU",
+    "photoUrls": "images/pet/dog/9.png",
+    "gender": "male",
+    "amount": 0,
+    "price": 1000000
+  },
+  {
+    "id": "d10", 
+    "name": "CHÓ SAINT BERNARD",
+    "photoUrls": "images/pet/dog/10.png",
+    "gender": "female",
+    "amount": 2,
+    "price": 2500000
+  },
+  {
+    "id": "d11", 
+    "name": "CHÓ BORDER COLLIE",
+    "photoUrls": "images/pet/dog/11.png",
+    "gender": "female",
+    "amount": 10,
+    "price": 250000
+  },
+  {
+    "id": "d12", 
+    "name": "CHÓ ALASKA",
+    "photoUrls": "images/pet/dog/12.png",
+    "gender": "female",
+    "amount": 5,
+    "price": 25000000
+  },
+  {
+    "id": "d13", 
+    "name": "CHÓ AKITA INU",
+    "photoUrls": "images/pet/dog/13.png",
+    "gender": "female",
+    "amount": 1,
+    "price": 25000000
+  },
+  {
+    "id": "d14", 
+    "name": "CHÓ HUSKY",
+    "photoUrls": "images/pet/dog/14.png",
+    "gender": "female",
+    "amount": 6,
+    "price": 25000000
+  },
+  {
+    "id": "d15", 
+    "name": "CHÓ SAMOYOD",
+    "photoUrls": "images/pet/dog/15.png",
+    "gender": "female",
+    "amount": 10,
+    "price": 25000000
+  },
+  {
+    "id": "d16", 
+    "name": "CHÓ CHOWCHOW",
+    "photoUrls": "images/pet/dog/16.png",
+    "gender": "female",
+    "amount": 12,
+    "price": 25000000
+  },
+  {
+    "id": "d17", 
+    "name": "CHÓ BULLDOG",
+    "photoUrls": "images/pet/dog/17.png",
+    "gender": "female",
+    "amount": 2,
+    "price": 25000000
+  },
+  {
+    "id": "d18", 
+    "name": "CHÓ PUG",
+    "photoUrls": "images/pet/dog/18.png",
+    "gender": "female",
+    "amount": 0,
+    "price": 25000000
+  },
+  {
+    "id": "d19", 
+    "name": "CHÓ BOXER",
+    "photoUrls": "images/pet/dog/19.png",
+    "gender": "female",
+    "amount": 1,
+    "price": 25000000
+  },
+  {
+    "id": "d20", 
+    "name": "CHÓ BULLY",
+    "photoUrls": "images/pet/dog/20.png",
+    "gender": "female",
+    "amount": 2,
+    "price": 25000000
+  },
+  {
+    "id": "d21", 
+    "name": "CHÓ PHỐC HƯƠU",
+    "photoUrls": "images/pet/dog/21.png",
+    "gender": "female",
+    "amount": 3,
+    "price": 25000000
+  },
+  {
+    "id": "d22", 
+    "name": "CHÓ DOBERMAN",
+    "photoUrls": "images/pet/dog/22.png",
+    "gender": "female",
+    "amount": 5,
+    "price": 25000000
+  },
+  {
+    "id": "d23", 
+    "name": "CHÓ ROTTWEILER",
+    "photoUrls": "images/pet/dog/23.png",
+    "gender": "female",
+    "amount": 8,
+    "price": 25000000
+  },
+  {
+    "id": "d24", 
+    "name": "CHÓ MALINOIS",
+    "photoUrls": "images/pet/dog/24.png",
+    "gender": "female",
+    "amount": 1,
+    "price": 25000000
+  },
+  {
+    "id": "d25", 
+    "name": "CHÓ ALABAI",
+    "photoUrls": "images/pet/dog/25.png",
+    "gender": "female",
+    "amount": 4,
+    "price": 25000000
+  },
+  {
+    "id": "d26", 
+    "name": "CHÓ CANE CORSO",
+    "photoUrls": "images/pet/dog/26.png",
+    "gender": "female",
+    "amount": 10,
+    "price": 25000000
+  },
+  {
+    "id": "d27", 
+    "name": "CHÓ PITBULL",
+    "photoUrls": "images/pet/dog/27.png",
+    "gender": "female",
+    "amount": 10,
+    "price": 25000000
+  },
+  {
+    "id": "d28", 
+    "name": "CHÓ BASENJI",
+    "photoUrls": "images/pet/dog/28.png",
+    "gender": "female",
+    "amount": 10,
+    "price": 25000000
+  },
+  {
+    "id": "d29", 
+    "name": "CHÓ BEAGLE",
+    "photoUrls": "images/pet/dog/29.png",
+    "gender": "female",
+    "amount": 10,
+    "price": 25000000
+  },
+  {
+    "id": "d30", 
+    "name": "CHÓ BASSET HOUND",
+    "photoUrls": "images/pet/dog/30.png",
+    "gender": "female",
+    "amount": 10,
+    "price": 25000000
+  },
+  {
+    "id": "d31", 
+    "name": "CHÓ H'MONG CỘC",
+    "photoUrls": "images/pet/dog/31.png",
+    "gender": "female",
+    "amount": 10,
+    "price": 25000000
+  },
+  {
+    "id": "d32", 
+    "name": "CHÓ PHÚ QUỐC",
+    "photoUrls": "images/pet/dog/32.png",
+    "gender": "female",
+    "amount": 10,
+    "price": 25000000
+  },
+  {
+    "id": "d33", 
+    "name": "CHÓ YORKSHIRE",
+    "photoUrls": "images/pet/dog/33.png",
+    "gender": "female",
+    "amount": 10,
+    "price": 25000000
+  },
+  {
+    "id": "d34", 
+    "name": "CHÓ SCHNAUZER",
+    "photoUrls": "images/pet/dog/34.png",
+    "gender": "female",
+    "amount": 10,
+    "price": 25000000
+  },
+  {
+    "id": "d35", 
+    "name": "CHÓ SHIBA INU",
+    "photoUrls": "images/pet/dog/35.png",
+    "gender": "female",
+    "amount": 10,
+    "price": 25000000
+  },
+  {
+    "id": "d36", 
+    "name": "CHÓ GOLDEN",
+    "photoUrls": "images/pet/dog/36.png",
+    "gender": "female",
+    "amount": 10,
+    "price": 25000000
+  },
+  {
+    "id": "d37", 
+    "name": "CHÓ LABRADOR",
+    "photoUrls": "images/pet/dog/37.png",
+    "gender": "female",
+    "amount": 10,
+    "price": 25000000
+  }
+]
